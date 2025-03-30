@@ -1,6 +1,10 @@
 https://tv.cctv.com/live/cctv1/m/
 https://tv.cctv.com/live/cctv2/m/
 https://tv.cctv.com/live/cctv3/m/
+https://m.345iptv.com/?act=play&token=b61b3fcb87144623ef8be0ff9f120688&tid=litv&id=1
+https://m.345iptv.com/?act=play&token=e0de5e12ebf078deeb54ff5d7f0b31ba&tid=litv&id=2
+https://m.345iptv.com/?act=play&token=53b862ac2fd962c54fc9a456f0781ab2&tid=litv&id=3
+https://m.345iptv.com/?act=play&token=3129d7c4ca48772bf4f86375f6803455&tid=litv&id=4
 https://tvbox-config.pharaoh.cf/jrsf/index.html#0
 https://tvbox-config.pharaoh.cf/jrsf/index.html#1
 https://tvbox-config.pharaoh.cf/jrsf/index.html#2
